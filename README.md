@@ -1,14 +1,12 @@
 ## Desafío de construcción del Foro-Hub
 
-![image](https://github.com/tromenArarat/Foro-Hub/assets/3432106/c7458878-83d9-49ef-8141-70ca44a98eef)
-
 
 <h3>Descripción del proyecto</h3>
 
 Creación de una API Rest usando Spring para la Formación en Desarrollo Backend de #Alura y #Oracle
 
 <h5>Objetivo:</h5>
-Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
+La API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
 Crear un nuevo tópico;
 Mostrar todos los tópicos creados;
 Mostrar un tópico específico;
